@@ -30,3 +30,23 @@ of limited utility to others, but you are welcome to try it.
 - Sentences should not start with "and", "or", or "so"
 - Numeric form should be used for numbers above 20, excepting those divisible by 10, 100, 1000, etc. (refer to the AP Stylebook for circumstances in which numerals should always be used)
 - The passive voice should be avoided; prefer the active voice
+- All-caps titles and headings should almost always be avoided
+- Long multi-word terms should be spelled out the first time in each major section and abbreviated thereafter
+- Use of contractions ending with "'d" should be limited
+- Pronouns should be disambiguated as much as is necessary and as little as is reasonable
+- Novel compound words should be avoided if the intent is not entirely clear
+- Use of excessively lengthy words or phrases that do not add to the writing or capture something that a shorter alternative could not should be limited
+- More specific modifiers should be preferred to "very", "quite", etc.
+- Appositive phrases should be preferred to semicolon-separated clauses in general; these both should be preferred to parentheticals
+- Square brackets (outside of quotations) should only be used in "alternative sentences", those with equal semantic stature to the main text
+- Avoid nesting quotes more than two layers deep
+<!-- - Nested quotes -->
+- Avoid nesting footnotes
+- Brief, hyphenated forms (context-dependent) should be preferred to longer ones (dependent on context)
+- "e.g." can be omitted in cases where the intent is obvious
+- Minimize use of "obviously", "of course", etc.
+- Limit use of "it's"
+- Prefer "cannot" to "can't" in formal writing
+- Make certainty level of assertions clear ("It seems axiomatic that ...")
+- Ellipses should be typed as "..." and should always be surrounded by spaces
+- Limit use of the imperative mood, especially in (formal) settings where it may be unintentionally interpreted as hostility
